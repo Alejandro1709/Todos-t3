@@ -12,6 +12,7 @@ const Home: NextPage = () => {
     <Layout>
       <TodoForm />
       <Todos />
+      <AuthShowcase />
     </Layout>
   );
 };
